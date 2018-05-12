@@ -1,0 +1,37 @@
+_repo: Elisabethou-les-Exil-s-de-Sib-rie_29826
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cottin, Madame (Sophie)
+    aliases:
+    - Ristaud, Sophie
+    - Cottin, Marie Risteau, called Sophie
+    - Risteau, Marie-Sophie
+    - Ristaud, Marie Sophie
+    - Risteau, Sophie
+    - Cottin, Sophie
+    birthdate: 1770
+    deathdate: 1807
+    gutenberg_agent_id: '32253'
+    url: http://www.gutenberg.org/2009/agents/32253
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Sophie_Ristaud_Cottin
+    - http://fr.wikipedia.org/wiki/Sophie_Cottin
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29826'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Siberia (Russia) -- Fiction'
+title: Elisabeth; ou les Exilés de Sibérie
+url: http://www.gutenberg.org/ebooks/29826
