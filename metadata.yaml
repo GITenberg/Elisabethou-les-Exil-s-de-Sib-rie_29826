@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Sophie_Ristaud_Cottin
     - http://fr.wikipedia.org/wiki/Sophie_Cottin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29826#Elisabethou-les-Exil-s-de-Sib-rie
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-08-28'
 gutenberg_type: Text
